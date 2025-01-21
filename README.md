@@ -2,7 +2,7 @@
 
 This repository contains the source code, datasets, and documentation for the Plant Health Detection System, a project aimed at revolutionizing sustainable agriculture through AI-powered plant disease detection. By leveraging Convolutional Neural Networks (CNNs) and a diverse dataset of plant images, the system identifies and classifies plant diseases with high accuracy, providing actionable insights for farmers and agricultural professionals.
 
-# Features:
+## Features:
 
 Deep Learning Model: Utilizes CNNs for automated feature extraction and disease classification.
 
@@ -15,7 +15,7 @@ Sustainability Focus: Promotes targeted treatment to minimize pesticide use and 
 Scalability: Designed to support additional crops and diseases with future model updates.
 
 
-# Project Highlights:
+## Project Highlights:
 
 Dataset: Preprocessed images of healthy and diseased plants.
 
@@ -26,7 +26,7 @@ Deployment: User-friendly web application for real-time usage.
 Future Scope: Incorporates plans for IoT integration, multilingual support, and cloud-based deployment.
 
 
-# How to Use:
+## How to Use:
 
 1. Clone the repository:
    `git clone https://github.com/your-username/plant-health-detection`
