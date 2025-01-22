@@ -35,7 +35,7 @@ Future Scope: Incorporates plans for IoT integration, multilingual support, and 
    `pip install -r requirements.txt`
 
 3. Run the Streamlit app:
-   `streamlit run app.py`
+   `streamlit run main.py`
 
 4. Upload plant images to receive disease predictions.
    
