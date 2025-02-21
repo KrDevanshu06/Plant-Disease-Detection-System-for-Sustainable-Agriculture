@@ -29,7 +29,7 @@ Future Scope: Incorporates plans for IoT integration, multilingual support, and 
 ## How to Use:
 
 1. Clone the repository:
-   `git clone https://github.com/your-username/plant-health-detection`
+   `git clone https://github.com/KrDevanshu06/Plant-Disease-Detection-System-for-Sustainable-Agriculture`
 
 2. Install dependencies:
    `pip install -r requirements.txt`
